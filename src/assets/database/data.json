@@ -1,0 +1,153 @@
+{
+  "maincategory": [
+    {
+      "id": 0
+    },
+    {
+      "name": "male",
+      "id": 1
+    },
+    {
+      "name": "female ",
+      "id": 2
+    },
+    {
+      "name": "kids ",
+      "id": 3
+    },
+    {
+      "name": "Rosy",
+      "id": 4
+    },
+    {
+      "name": "dfff",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "name": "jeans",
+      "id": 7
+    },
+    {
+      "name": "kkk",
+      "id": 8
+    }
+  ],
+  "subcategory": [
+    {
+      "id": 0
+    },
+    {
+      "name": "jeans",
+      "id": 1
+    },
+    {
+      "name": "t-shirt ",
+      "id": 2
+    }
+  ],
+  "brand": [
+    {
+      "id": 0
+    },
+    {
+      "name": "puma",
+      "id": 1
+    },
+    {
+      "name": "zara",
+      "id": 2
+    }
+  ],
+  "product": [
+    {
+      "id": 0
+    },
+    {
+      "name": "male jeans slim fit",
+      "maincategory": "male",
+      "subcategory": "jeans",
+      "brand": "",
+      "color": "black",
+      "size": "34",
+      "baseprice": "7800",
+      "discount": "78",
+      "finalprice": 1716,
+      "stock": "In Stock",
+      "description": "This is a sample Product",
+      "pic1": "p5.jpg",
+      "pic2": "p2.jpg",
+      "pic3": "p7.jpg",
+      "pic4": "p11.jpg",
+      "id": 1
+    },
+    {
+      "name": "female wide leg jeans",
+      "maincategory": "female ",
+      "subcategory": "jeans",
+      "brand": "",
+      "color": "blue",
+      "size": "32",
+      "baseprice": "1800",
+      "discount": "18",
+      "finalprice": 1476,
+      "stock": "In Stock",
+      "description": "This is a sample Product",
+      "pic1": "p6.jpg",
+      "pic2": "p9.jpg",
+      "pic3": "p13.jpg",
+      "pic4": "p33.jpg",
+      "id": 2
+    },
+    {
+      "name": "high neck t-shirt ",
+      "maincategory": "female ",
+      "subcategory": "t-shirt ",
+      "brand": "zara",
+      "color": "black",
+      "size": "xl",
+      "baseprice": 1200,
+      "discount": 12,
+      "finalprice": 1056,
+      "stock": "In Stock",
+      "description": "This is a sample Product",
+      "pic1": "p3.jpg",
+      "pic2": "p51.jpg",
+      "pic3": "p8.jpg",
+      "pic4": "p52.jpg",
+      "id": 3
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    }
+  ],
+  "newslatter": [
+    {
+      "id": 0
+    }
+  ],
+  "contactus": [
+    {
+      "id": 0
+    }
+  ]
+}
